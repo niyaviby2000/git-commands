@@ -12,6 +12,8 @@ git remote add remote_name remote_repo_path[adding remote repo]
 
 git push remote_name branch[pushing files from local to remote repo]
 
+git branch[to list branches]
+
 Global cmds
 
     >git config --list[list user details]
