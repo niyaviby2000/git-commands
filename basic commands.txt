@@ -6,3 +6,9 @@ git add -A[add all untracked files to staging area]
 
 git commit -m "commit msg"[adding staged files to local repo]
 
+git remote -v[list all remote]
+
+git remote add remote_name remote_repo_path[adding remote repo]
+
+git push remote_name branch[pushing files from local to remote repo]
+
